@@ -1,1 +1,1 @@
-#write you code here
+print("a")
